@@ -40,7 +40,7 @@ Our proposed model HGDI is compared with several state-of-the-art visual dialog 
 
 This code is implemented using PyTorch v1.7, and provides out of the box support with CUDA 11 and CuDNN 8. Anaconda/Miniconda is the recommended to set up this codebase: <br>
 
-1. Install Anaconda or Miniconda distribution based on Python3+ from their [downloads' site][1].
+1. Install Anaconda or Miniconda distribution based on Python3+.
 2. Clone this repository and create an environment:
 
 ```shell
@@ -96,4 +96,13 @@ We use [Visual Dialog Challenge Starter Code][7] and [MCAN-VQA][8] as reference 
 Please cite the following paper if you find this work useful:
 
 Shanshan Du, Hanli Wang, Tengpeng Li, and Chang Wen Chen, Hybrid Graph Reasoning with Dynamic Interaction for Visual Dialog, IEEE Transactions on Multimedia, accepted, 2024.
+
+[1]: https://conda.io/docs/user-guide/install/download.html
+[2]: https://drive.google.com/file/d/1NYlSSikwEAqpJDsNGqOxgc0ZOkpQtom9/view?usp=sharing
+[3]: https://drive.google.com/file/d/1NI5TNKKhqm6ggpB2CK4k8yKiYQE3efW6/view?usp=sharing
+[4]: https://drive.google.com/file/d/1BXWPV3k-HxlTw_k3-kTV6JhWrdzXsT7W/view?usp=sharing
+[5]: https://drive.google.com/file/d/125DXSiMwIH054RsUls6iK3kdZACrYodJ/view?usp=sharing
+[6]: https://visualdialog.org/data
+[7]: https://www.github.com/batra-mlp-lab/visdial-challenge-starter-pytorch
+[8]: https://github.com/MILVLG/mcan-vqa
 
