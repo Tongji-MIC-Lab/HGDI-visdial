@@ -31,7 +31,7 @@ Our proposed model HGDI is compared with several state-of-the-art visual dialog 
 <br/><font>Fig. 2. Visualization results of the inferred semantic structures on the validation set of VisDial v1.0. The following abbreviations are used: question (Q), generated answer (A), caption (C), and question-answer pair (D). The darker the color, the higher the relevance score.</font>
 </p>
 <p align="center">
-<image src="source/fig4.jpg" width="450">
+<image src="source/fig5.jpg" width="450">
 <br/><font>Fig. 3. Visualization samples of visual attention maps and object-relational graphs during a progressive multi-round dialog inference. The ground-truth answer (GT) and the predicted answer achieved by HGDI (Ours) are presented.</font>
 </p>
 
