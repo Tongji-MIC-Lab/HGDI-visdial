@@ -95,7 +95,7 @@ We use [Visual Dialog Challenge Starter Code][7] and [MCAN-VQA][8] as reference 
 
 Please cite the following paper if you find this work useful:
 
-Shanshan Du, Hanli Wang, Tengpeng Li, and Chang Wen Chen, Hybrid Graph Reasoning with Dynamic Interaction for Visual Dialog, IEEE Transactions on Multimedia, accepted, 2024.
+S. Du, H. Wang, T. Li, and C. W. Chen, “Hybrid graph reasoning with dynamic interaction for visual dialog,” IEEE Trans. Multimedia., vol. 26, pp. 9095–9108, Apr. 2024.
 
 [1]: https://conda.io/docs/user-guide/install/download.html
 [2]: https://drive.google.com/file/d/1NYlSSikwEAqpJDsNGqOxgc0ZOkpQtom9/view?usp=sharing
